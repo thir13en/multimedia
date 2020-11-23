@@ -1,2 +1,3 @@
-# multimedia
-learning the art of art
+# Multimedia
+
+Learning the art of art
